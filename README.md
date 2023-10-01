@@ -13,7 +13,7 @@ My current interests are:
 - 🐍 Improving my Python/Django skills
 - 🔂 Studying data structures and algorithms.
 
-#### Technologies I've (at least) dabbled in
+#### Tools and technologies I've (at least) dabbled in
 
 - Python, Django
 - JavaScript, React, Node, Express
