@@ -1,7 +1,5 @@
 # Adam Parr
 
-## A full stack developer in the UK
-
 I'm a STEM postgraduate and logistics developer with experience in the nuclear and oil & gas sectors. I enjoy solving complex domain-specific problems using software in areas such as **logistics**, **manufacturing**, and **simulation**.
 
 Feel free to check out my [blog](https://adamparr.dev/) and connect on [LinkedIn](https://www.linkedin.com/in/adamparr1/).
